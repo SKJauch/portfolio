@@ -1,12 +1,20 @@
 import React from 'react';
+import '../style/Body.css';
+
+const styles = {
+  sectionStyles: {
+    background: 'orange',
+  },
+};
+
 
 export default function Home() {
   return (
-    <div>
+    <section style={styles.sectionStyles} className="header">
       <h1>Home Page</h1>
       <p>
         Wecome to my site!  Please look around and contact me to work together!
       </p>
-    </div>
+    </section>
   );
 }
