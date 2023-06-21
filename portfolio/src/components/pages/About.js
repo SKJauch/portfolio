@@ -1,7 +1,18 @@
 import React from 'react';
+import '../style/Body.css';
+
+const styles = {
+  headerStyle: {
+    background: 'red',
+  },
+  headingStyle: {
+    fontSize: '100px',
+  },
+};
 
 export default function About() {
   return (
+    
     <div>
       <h1>About Me</h1>
       <p>
