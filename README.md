@@ -6,11 +6,9 @@ A single page website that showcases my skills and my past projects with my resu
 
 ## Usage
 
-Business owners will simply invoke the application by using "node index".  The user will then navigate the options by using the up and down arrows.
+Potential employers will be able to view my website through its deployed link on GitHub.
 
-## Contributors
 
-Stephanie Jauch and Meg Meyers.  Referenced Module 12, 02-Challenge and 28-Stu_Mini-Project.
 
 ##  GitHub Repo
 
