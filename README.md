@@ -8,11 +8,14 @@ A single page website that showcases my skills and my past projects with my resu
 
 Potential employers will be able to view my website through its deployed link on GitHub.
 
-
-
 ##  GitHub Repo
 
-https://github.com/SKJauch/employee_tracker
+[My Portfolio](https://github.com/SKJauch/portfolio)
 
-##  Video 
-https://drive.google.com/file/d/1-QsddhBj2oRBB9zhV3G2ss-mpV5oVqx9/view
+##  GitHub 
+
+[My GitHub](https://github.com/SKJauch)
+
+##  Deployed Application
+
+
