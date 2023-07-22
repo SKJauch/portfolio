@@ -10,7 +10,7 @@ Potential employers will be able to view my website through its deployed link on
 
 ##  GitHub Repo
 
-[My Portfolio](https://github.com/SKJauch/portfolio)
+[My Portfolio Repo](https://github.com/SKJauch/portfolio)
 
 ##  GitHub 
 
@@ -18,4 +18,4 @@ Potential employers will be able to view my website through its deployed link on
 
 ##  Deployed Application
 
-
+[My Portfolio](https://skjauch.github.io/portfolio/)
