@@ -1,16 +1,27 @@
 ul.nav.nav-tabs {
     background: #6a1b9a;
-    height: 60px;
+    height: 61px;
     width: flex;
-    text-decoration-color: azure;
-    flex-wrap: wrap;
+    /* text-decoration-color: azure; */
+    flex-wrap: nowrap;
   }
   
   a.nav-link {
-    color: white;
+    background: #6a1b9a;
+    color: lavender;
     font-size: 1.3rem;
     text-decoration: none;
     /* margin: 5px; */
     line-height: 3;
+    height: 60px;
     
+  }
+
+  .nav-tabs-link.active {
+    color: lavender;
+    background: lavender;
+    font-size: 1.3rem;
+    text-decoration: none; 
+    margin: 5px;
+    line-height: 3;
   }

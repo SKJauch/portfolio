@@ -2,11 +2,8 @@ import React from 'react';
 import '../style/Body.css';
 
 const styles = {
-  headerStyle: {
-    background: 'red',
-  },
-  headingStyle: {
-    fontSize: '100px',
+  sectionStyles: {
+    background: 'lavender',
   },
 };
 

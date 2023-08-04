@@ -1,5 +1,9 @@
+* {
+  background-color: lavender;
+}
+
 .header {
-    background: #b71775;
+    background: purple;
     height: 200px;
   }
   

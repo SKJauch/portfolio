@@ -3,7 +3,7 @@ import '../style/Body.css';
 
 const styles = {
   sectionStyles: {
-    background: 'orange',
+    background: 'lavender',
   },
 };
 
