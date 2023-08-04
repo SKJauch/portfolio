@@ -2,7 +2,7 @@
 
 ## Description
 
-A single page website that showcases my skills and my past projects with my resume also.
+A single page website that showcases my skills and my past projects.  It will also have my resume so all of my information is in one place.
 
 ## Usage
 
