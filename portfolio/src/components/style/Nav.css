@@ -18,10 +18,14 @@ ul.nav.nav-tabs {
   }
 
   .nav-tabs-link.active {
-    color: lavender;
-    background: lavender;
+    /* color: lavender;
+    background: lavender; */
     font-size: 1.3rem;
     text-decoration: none; 
     margin: 5px;
     line-height: 3;
+  }
+
+  #nav-item {
+    background: lavender;
   }
